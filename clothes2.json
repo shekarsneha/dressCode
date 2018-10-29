@@ -1,0 +1,79 @@
+{
+    "Clothes": [
+                {
+                "category_name": "Tops",
+                "items": [
+                         {
+                         "name": "Gray T-shirt",
+                         "image": "tshirt_gray",
+                         "season": "summer"
+                         },
+                         {
+                         "name": "Black Dotted T-Shirt",
+                         "image": "tshirt_blackdots",
+                         "season": "summer"
+                         },
+                         {
+                         "name": "Yellow Striped Tshirt",
+                         "image": "tshirt_yellowstriped",
+                         "season": "summer"
+                         },
+                         {
+                         "name": "Shaggy Sweater",
+                         "image": "sweater_shaggy",
+                         "season": "fall"
+                         },
+                         {
+                         "name": "Gray Sweater",
+                         "image": "sweater_gray",
+                         "season": "fall"
+                         }
+                         ]
+                },
+                {
+                "category_name": "Bottoms",
+                "items": [
+                            {
+                            "name": "Black Shorts",
+                            "image": "shorts_black",
+                            "season": "summer"
+                            },
+                            {
+                            "name": "Pink Shorts",
+                            "image": "shorts_pink",
+                            "season": "summer"
+                            },
+                            {
+                            "name": "Tan Shorts",
+                            "image": "shorts_tan",
+                            "season": "summer"
+                            }
+                            ]
+                },
+                {
+                "category_name": "Outerwear",
+                "items": [
+                              {
+                              "name": "Kimono",
+                              "image": "kimono",
+                              "season": "spring"
+                              }
+                              ]
+                },
+                {
+                "category_name": "Dresses",
+                "items": [
+                            {
+                            "name": "White Floral Dress",
+                            "image": "dress_whitefloral",
+                            "season": "summer"
+                            },
+                            {
+                            "name": "Romper",
+                            "image": "romper",
+                            "season": "summer"
+                            }
+                            ]
+                }
+                ]
+}
